@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dennnanni/dennnanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="" alt="Cat kisses everyone that visit my profile"/>
+
+----
+
+### About me
+<ul>
+	<li>💻 I'm studying Computer Engineering at the University of Bologna</li>
+	<li>🧠 I enjoy teamwork, especially when it comes to challenging projects that require different points of view</li>
+	<li>🐈 Obsessed by cats</li>
+</ul>
+
+> Any sufficiently advanced bug is indistinguishable from a feature.
+— Rick Kulaweic
