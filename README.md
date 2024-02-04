@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="" alt="Cat kisses everyone that visit my profile"/>
+<img src="https://github.com/dennnanni/dennnanni/blob/master/cat.gif" alt="Cat kisses everyone that visit my profile"/>
 
 ----
 
