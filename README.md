@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 ### About me
 <ul>
 	<li>💻 I'm studying Computer Engineering at the University of Bologna</li>
+	<li>📜 Currently working on my thesis</ul>
 	<li>🧠 I enjoy teamwork, especially when it comes to challenging projects that require different points of view</li>
-	<li>🐈 Obsessed by cats</li>
+	<li>🐈 Obsessed with cats</li>
 </ul>
 
 > Any sufficiently advanced bug is indistinguishable from a feature.
