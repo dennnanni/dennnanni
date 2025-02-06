@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### About me
 <ul>
 	<li>💻 I'm studying Computer Engineering at the University of Bologna</li>
-	<li>📜 Currently working on my thesis</li>
+	<li>📚 Working on some group projects</li>
 	<li>🧠 I enjoy teamwork, especially when it comes to challenging projects that require different points of view</li>
 	<li>🐈 Obsessed with cats</li>
 </ul>
